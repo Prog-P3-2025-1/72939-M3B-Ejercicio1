@@ -1,0 +1,2 @@
+Ingresar usuario de git y correo electrónico asociado a la cuenta como se muestra debajo
+usuario,email@email.com
